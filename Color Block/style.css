@@ -1,3 +1,32 @@
 #header{
+    text-align: center;
+}
 
+#container{
+    
+}
+
+#content{
+    
+}
+
+#color-selector{
+    float: left
+}
+
+
+
+#info{
+    
+    width: 480px;
+    
+}
+
+#wheel{
+   float:right;
+   width: 400px;
+}
+
+#footer{
+    float:left;
 }
